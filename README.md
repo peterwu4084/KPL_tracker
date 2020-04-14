@@ -20,9 +20,13 @@
 
   Team abilities were normalized to [5, 10] and player abilities were normalized to [0, 10].
 
+# Environment
+
+* windows 10
+* python 3
+
 # Prerequisites
 
-* python3
 * plotly 4.6
 * numpy
 * pandas
